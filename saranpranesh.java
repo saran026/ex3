@@ -1,4 +1,4 @@
-class saranpranesh{
+class saranpranesh {
   public static void main(String[]args)
   {
     System.out.println("Hello");
@@ -7,4 +7,5 @@ class saranpranesh{
       System.out.println("Devops");
       System.out.println("Class");
   }
+}
                         
